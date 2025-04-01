@@ -2,5 +2,5 @@
 ## ingredients
 ## instructions
 ## apples
-## salt 
+## sat 
 ## water
